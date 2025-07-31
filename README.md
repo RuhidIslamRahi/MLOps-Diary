@@ -1,6 +1,4 @@
 # MLOps-Diary
-My personal MLOps learning journey—sharing what I build, break, and learn on the way to mastering production ML.
-
 📘 MLOps Learning Journey
 Welcome to my MLOps learning journey! 🚀
 This repository documents my hands-on exploration, notes, and projects as I dive into Machine Learning Operations (MLOps)—from experimentation to deployment and monitoring in production.
